@@ -21,7 +21,7 @@ Includes:
 - Hallucination detection and correction  
 - Reasoning and instruction-following analysis  
 
-👉 [View Project](projects/llm-evaluation/)
+👉 [View Project](aiportfolio/projects/llm-evaluation/)
 
 ---
 
@@ -37,7 +37,7 @@ Includes:
 - Output consistency and realism analysis  
 - Model behavior evaluation in domain-specific scenarios  
 
-👉 [View Project](projects/stable-diffusion-japanese-street/)
+👉 [View Project](aiportfolio/projects/stable-diffusion-japanese-street/)
 
 ---
 
