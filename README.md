@@ -37,7 +37,7 @@ Includes:
 - Output consistency and realism analysis  
 - Model behavior evaluation in domain-specific scenarios  
 
-👉 [View Project](projects/stable-diffusion-japanese-street/)
+👉 [View Project](projects/stable-diffusion-LoRA-project/)
 
 ---
 
