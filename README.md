@@ -1,46 +1,73 @@
 # AI Prompt Engineering & Model Evaluation Portfolio
 
 ## Overview
-This portfolio demonstrates practical experience in prompt engineering, AI model evaluation, and output analysis across LLMs and generative AI systems.
+This portfolio demonstrates practical experience in prompt engineering, AI model evaluation, and output analysis across Large Language Models (LLMs) and generative AI systems.
+
+The projects focus on real-world evaluation scenarios, structured reasoning, and improving model outputs through prompt design and fine-tuning techniques.
 
 ---
 
-## Project 1 — LLM Evaluation
-**Task:** Explain hydraulic systems to non-technical users
+## 📁 Project Structure
 
-**Focus:**
-- Clarity
-- Instruction-following
-- Practical explanation
+### 🔹 LLM Evaluation & Prompt Engineering  
+📂 `projects/llm-evaluation/`
 
----
+This section focuses on evaluating and improving LLM outputs through structured prompts and analytical methodologies.
 
-## Project 2 — Constraint-Based Prompting
-**Task:** Tractor maintenance checklist
+Includes:
+- Prompt design with constraints  
+- Golden answer creation  
+- Output evaluation and comparison  
+- Hallucination detection and correction  
+- Reasoning and instruction-following analysis  
 
-**Focus:**
-- Constraint adherence
-- Structured output
-- Real-world usability
+👉 [View Project](projects/llm-evaluation/)
 
 ---
 
-## Project 3 — Model Comparison
-Comparison between different LLM outputs based on:
-- Clarity
-- Accuracy
-- Practical relevance
+### 🔹 Stable Diffusion — LoRA & Prompt Optimization  
+📂 `projects/stable-diffusion-japanese-street/`
+
+This project demonstrates how generative image models can be improved through structured prompting and domain-specific fine-tuning.
+
+Includes:
+- Baseline vs improved generation comparison  
+- Prompt restructuring (natural language → structured tags)  
+- LoRA fine-tuning using curated dataset  
+- Output consistency and realism analysis  
+- Model behavior evaluation in domain-specific scenarios  
+
+👉 [View Project](projects/stable-diffusion-japanese-street/)
 
 ---
 
-## Project 4 — Error Detection
-Identification and correction of hallucinated outputs in technical explanations.
+## 🧠 Key Skills Demonstrated
+
+- Prompt Engineering (LLMs & Image Models)  
+- AI Output Evaluation & Ranking  
+- Model Behavior Analysis  
+- Error Detection & Hallucination Handling  
+- Constraint-based Prompt Design  
+- Generative AI Optimization (Stable Diffusion, LoRA)  
+- Structured Analytical Thinking  
 
 ---
 
-## Skills Demonstrated
-- Prompt Engineering
-- AI Output Evaluation
-- Model Behavior Analysis
-- Error Detection
-- Structured Thinking
+## 🎯 Focus
+
+This portfolio emphasizes not only the ability to generate outputs, but to:
+
+- Analyze model behavior  
+- Identify limitations  
+- Apply structured improvements  
+- Evaluate results critically  
+
+---
+
+## 📄 Additional Material
+
+Each project includes a detailed PDF report with:
+- Methodology  
+- Prompt examples  
+- Output comparison  
+- Technical insights  
